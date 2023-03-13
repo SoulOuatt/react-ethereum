@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ethereum/static/css/main.240535e5.css",
+    "main.js": "/react-ethereum/static/js/main.b30ef5b5.js",
+    "static/js/787.a4652b7f.chunk.js": "/react-ethereum/static/js/787.a4652b7f.chunk.js",
+    "index.html": "/react-ethereum/index.html",
+    "main.240535e5.css.map": "/react-ethereum/static/css/main.240535e5.css.map",
+    "main.b30ef5b5.js.map": "/react-ethereum/static/js/main.b30ef5b5.js.map",
+    "787.a4652b7f.chunk.js.map": "/react-ethereum/static/js/787.a4652b7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240535e5.css",
+    "static/js/main.b30ef5b5.js"
+  ]
+}
